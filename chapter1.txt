@@ -1,2 +1,2 @@
-this is chapter1 file in junho
-here is junho branch
+this is chapter1 file
+here is branch
